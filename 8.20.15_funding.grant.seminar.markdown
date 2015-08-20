@@ -44,7 +44,6 @@ Marshall H. Kaplan
     * Your grant will be peer-reviewed.  
     * You likely know some of these people  
     * Never be negative about someones research in your proposal!  
-    *
 
 **Pre Proposal**  
     * Very succinct, make sure this is brief  
@@ -60,14 +59,13 @@ Marshall H. Kaplan
     * Always consider the potential success rate of your proposal  
     * Does you risk/reward ratio justify submitting the proposal?  
     * What is unique about your proposed work?   
-    
-    
+
 **Some Industry Terms**  
     * Ghosts: this could be equipment that you have which the other bidders do not  
     * Oh-oh : Address your weaknesses and how you plan to overcome them.  Do not try to hide them  
     * Silver-bullet : A decisive strategy that can be used to eliminate the competition   
     * Theme: selling message that is woven into the proposal.  Must make it clear to the reader what it is that you are selling.  
- **AVOID**  
+**AVOID**  
     * Me-too: demonstrating that you are "as-good" as the competition.  You need to stand out  
 
 
@@ -112,16 +110,167 @@ How do you market?
 
 
 
-    
 ## 3. The First Things to Do
 
+* Introduce yourself to all relevant program managers (narrow the field)  
+* Focus on one, tow, or three specific people  
+* Try to meet with funding representatives on a regular basis   
+* Arrange to have discussions with agency representatives while at conferences  
+
+**Body Language**  
+* Listen and take notes  
+* If they like your idea and verbally state it, end the meeting.  Don't oversell!  
+
+**NSF Evaluation**  
+* Intellectual Merit of the proposed activity  
+* Broader impacts of the proposed activity  
+* These must be linked together  
+* They are equally important  
+* Each proposer receives an explanation of the decision to award or decline funding  
 
 
 ## 4. Developing the Winning Proposal
 
+**What makes a winning proposal?**  
+* Selecting a research topic  
+    * Stay within your area of interest in expertise  
+    * Know the field  
+        * What are the frontiers of knowledge?  
+        * Who are the top researchers?  
+        * What are the recent advances and breakthroughs?  
+        * What is the key literature?  
+        * Look in paper acknowledgments for the funding agency.  
+    * Know how future developments in your field will affect you research  
+    * focus on a field-specific research agenda.  Try not to spread out to far, stay focused with an important but narrow objective. Don't propose to do too many things.   
+
+* proposal is not a technical paper!  It is a selling document  
+* Write as a selling pitch.  Prove that your idea is worthy of funding   
+* You are writing to reviewers  
+* Set the stage for those reading the proposal  
+    * Need to have a great project summary   
+* Your work must be novel!  
+
+* Words of Advice  
+    * Do Not obfuscate   
+    * Do not confuse - make it understandable  
+    * Do not be repetitions  
+    * Help reviewers understand your proposal  
+    * Do not make multiple submissions!  
+    * Do not shotgun proposals - DON'T WASTE YOUR TIME AND ENERGY SPRAYING COLD PROPOSALS ACROSS AGENCIES  
+    * Look at sample proposals  
+    * Spelling is the number one complaint among reviewers  
+    * Never use the word 'if'  
+    * Give the impression that this work is so important that it will carry on with or without their help
+
+What area of research do you think is most important in your (this) field?
+
+###  Write not so that you can be understood, but so that you cannot be misunderstood  
+
+**Writing Tips**  
+* Academic researchers are not natural proposal writers  
+* Use words sparingly for best impact  
+* Do not start sentences with long qualifying phrases  
+* Avoid excessive use of abbreviations, especially if they domain specific  
+* Use phrases such as:  
+    * We are already doing ...  
+    * This is the next logical step in our research ...   
+    * We have assembled an outstanding team of ...  
+    * State with confidence that you are determined to get this research do with or without their funding.   
+
+* Faculty researchers tend to be arrogant when writing proposals  
+* Don't brag  
+* Most rejected proposals are rejected early in the process b/c the reviewers cannot understand what is being proposed  
+* Ask a third party to proofread  
+* Every research claim must be substantiated!  If not, it must be part of your expected results or hypothesis  
+
 
 
 ## 5. Realities of the Funding Process
+
+* How much money to you need?  
+    * Anticipate this question  
+    * What is the minimum amount of money to do something minimal  
+    * What is maximum amount that I can handle  
+    * "I can do substantial research with the range of X to Y dollars"    
+
+
+
+
+* 1 out of 10 chance of being funded  
+* 1 out of 100 for a cold submission  
+* 90% get rejected because the are doing it wrong...so do it right!  
+*
+
+
+**Beyond Your Control**  
+
+You may have written the best proposal ever and done all of the right things to win. But, you did not get the award.  
+
+Why?  
+* Political aspects  
+* Personalities  
+* Hidden agendas  
+* Funding limitations  
+* Other unmentionable  
+
+
+**Lessons of Losing**  
+
+1. Are you going to win?  
+    * You cannot always win the grant, but never pursue funding unless you think you will win.  
+
+2. Keep your customer happy  
+    * Keep in touch, send new ideas and visit periodically.  
+
+3. Get a debriefing  
+    * If you do not get funded, ask for a debriefing to find out how to improve your chances next time.  
+
+4. Always be aware of the deadly sins of losing  
+ 
+**The key to winning is not losing!**
+
+
+**This Sins of Losing**  
+
+1. Non-responsiveness (Not answering the mail)  
+    * You must read the announcement carefully and often.  
+
+2. Poor writing  
+    * There is no excuse for not proofreading your work.  
+
+3. Unsubstantiated claims  
+    * Every important research-related claim must be substantiated or be part of the expected, verifiable results.  
+
+4. Arrogance  
+    * We know you're the greatest, but you still have to compete for those research dollars.  
+
+5 . Not listening  
+    * When your customer tells you something, either listen or look for a new customer.  
+
+6. Negativism  
+    * Always be positive about your research and the work of other researchers.  
+
+7. Indifference (Me-too-ism)  
+    * If you are not excited about your research ideas and projects, who will be?  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
