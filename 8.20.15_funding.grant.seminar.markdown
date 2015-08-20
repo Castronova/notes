@@ -19,21 +19,42 @@ Marshall H. Kaplan
 
 ## 1. The Language of the Research Bid
 
-* Defining Research
+**Defining Research**
     * Are you proposing _research_ or _development_?  
     * Research - Systematic investigation and study of materials, etc.  
     * Development - To bring or come to an active, visible, or mature state. [NSF WILL NOT FUND THIS!!]  
     * Am I proposing an activity that will lead to new knowledge or something that makes use of existing knowledge to improve something?  
 
-* Who is the customer
+**Who is the customer?**
     * person or agency
     * must be convinced that you have a good idea that the you can perform the promised research
-    * COMMUNICATE DIRECTLY WITH THE PROGRAM COMMITTEE BEFORE WRITING ANYTHING
+    * `COMMUNICATE DIRECTLY WITH THE PROGRAM COMMITTEE BEFORE WRITING ANYTHING`
         1. email explaining: who you are, your idea, your solution, ask for there feedback.  Is this something that they are interested in, would it fit their program?  Remember these are faculty on leave from university...they understand your situation!
-        2.  DON'T EVER SEND A PROPOSAL IN WITHOUT TALKING WITH THE PROGRAM MANAGER  
+        2.  `DON'T EVER SEND A PROPOSAL IN WITHOUT TALKING WITH THE PROGRAM MANAGER`  
         3.  1-3 page white paper can be helpful, but not until you contact the program manager!!!!   
     * Program managers must justify your grant to their supervisor.  They want to look good too.  
     * 
+
+**Grant Proposal Guide**
+    * Need to be familiar with this NSF document
+    * Primary guidebook for all NSF proposals
+
+
+**Peer Review**
+    * Your grant will be peer-reviewed.  
+    * You likely know some of these people  
+    * Never be negative about someones research in your proposal!  
+    *
+
+**Pre Proposal**
+    * Very succinct, make sure this is brief  
+    * 2-10 pages  
+    * Don't worry about details  
+    * Not a technical paper, it is designed to sell your research  
+    * What do you expect to get out of your results?  
+        1. Draft an outline, make multiple drafts  
+        2. Tell the what are you going to do, tell them how you did (or will do) it, tell them what you did  
+
 
 
 ## 2. Bidding Costs and Help from your University
